@@ -1,2 +1,2 @@
 # PortfolioWebApp
-This is a sample porfolio webapp built using JS libraries
+This is a sample porfolio webapp
